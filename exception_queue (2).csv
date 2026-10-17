@@ -1,0 +1,201 @@
+Order Id,date,mode,region,sched,real,delay_days,priority,escalate_to
+35,2015-01-01 11:54:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+77165,2018-01-31 09:59:00,Second Class,Eastern Asia,2,6,4,High,Carrier / Eastern Asia
+32620,2016-04-21 03:53:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+32610,2016-04-21 00:23:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+25,2015-01-01 08:24:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+63660,2017-07-18 06:34:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+10905,2015-06-09 04:09:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+10915,2015-06-09 07:39:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+10925,2015-06-09 11:09:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10930,2015-06-09 12:54:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63535,2017-07-16 10:47:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63690,2017-07-18 17:05:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10770,2015-06-07 04:51:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10785,2015-06-07 10:06:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+32815,2016-04-24 00:12:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32820,2016-04-24 01:57:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32780,2016-04-23 11:56:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+32450,2016-04-18 16:19:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32775,2016-04-23 10:11:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32715,2016-04-22 13:10:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+32515,2016-04-19 15:06:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+155,2015-01-03 05:57:00,Second Class,South America,2,6,4,High,Carrier / South America
+77070,2018-01-30 00:42:00,Second Class,Eastern Asia,2,6,4,High,Carrier / Eastern Asia
+32335,2016-04-17 00:02:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+32345,2016-04-17 03:32:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32355,2016-04-17 07:02:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32895,2016-04-25 04:14:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+170,2015-01-03 11:12:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+77035,2018-01-29 12:26:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+32855,2016-04-24 14:13:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32420,2016-04-18 05:49:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+10955,2015-06-09 21:40:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+10960,2015-06-09 23:25:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63495,2017-07-15 20:46:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10990,2015-06-10 09:56:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63405,2017-07-14 13:14:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10995,2015-06-10 11:41:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+63380,2017-07-14 04:29:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63350,2017-07-13 17:58:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63810,2017-07-20 11:08:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+32290,2016-04-16 08:16:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32295,2016-04-16 10:01:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+33015,2016-04-26 22:16:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33020,2016-04-27 00:01:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+32975,2016-04-26 08:15:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+195,2015-01-03 19:58:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+76995,2018-01-28 22:25:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+77000,2018-01-29 00:10:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+77015,2018-01-29 05:26:00,Second Class,Oceania,2,6,4,High,Carrier / Oceania
+32310,2016-04-16 15:16:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+11040,2015-06-11 03:27:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11070,2015-06-11 13:57:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63315,2017-07-13 05:42:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63840,2017-07-20 21:38:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+10715,2015-06-06 09:35:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63790,2017-07-20 04:07:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63335,2017-07-13 12:43:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+76930,2018-01-27 23:39:00,Second Class,Southeast Asia,2,6,4,High,Carrier / Southeast Asia
+32245,2016-04-15 16:30:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33060,2016-04-27 14:02:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+76990,2018-01-28 20:40:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+76965,2018-01-28 11:55:00,Second Class,Oceania,2,6,4,High,Carrier / Oceania
+255,2015-01-04 16:59:00,Second Class,Caribbean,2,6,4,High,Carrier / Caribbean
+32285,2016-04-16 06:31:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+11075,2015-06-11 15:42:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11105,2015-06-12 02:13:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63300,2017-07-13 00:27:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63870,2017-07-21 08:09:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+63875,2017-07-21 09:54:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63880,2017-07-21 11:39:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63830,2017-07-20 18:08:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+11110,2015-06-12 03:58:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+11115,2015-06-12 05:43:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+32175,2016-04-14 15:59:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33170,2016-04-29 04:34:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33145,2016-04-28 19:49:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33100,2016-04-28 04:03:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33070,2016-04-27 17:32:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33075,2016-04-27 19:17:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+76915,2018-01-27 18:24:00,Second Class,Oceania,2,6,4,High,Carrier / Oceania
+76920,2018-01-27 20:09:00,Second Class,Eastern Asia,2,6,4,High,Carrier / Eastern Asia
+76925,2018-01-27 21:54:00,Second Class,Southeast Asia,2,6,4,High,Carrier / Southeast Asia
+11130,2015-06-12 10:59:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63230,2017-07-11 23:56:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63940,2017-07-22 08:40:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+10620,2015-06-05 00:18:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63895,2017-07-21 16:54:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63850,2017-07-21 01:08:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63860,2017-07-21 04:39:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63195,2017-07-11 11:40:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+33330,2016-05-01 12:38:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33315,2016-05-01 07:22:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33275,2016-04-30 17:21:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32135,2016-04-14 01:58:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33215,2016-04-29 20:20:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33220,2016-04-29 22:05:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+32170,2016-04-14 14:14:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+305,2015-01-05 10:30:00,Second Class,South America,2,6,4,High,Carrier / South America
+11215,2015-06-13 16:45:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11255,2015-06-14 06:46:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+63095,2017-07-10 00:38:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63975,2017-07-22 20:56:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63935,2017-07-22 06:55:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11270,2015-06-14 12:01:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11285,2015-06-14 17:17:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+33345,2016-05-01 17:53:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33355,2016-05-01 21:23:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33370,2016-05-02 02:38:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32090,2016-04-13 10:12:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33320,2016-05-01 09:07:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33325,2016-05-01 10:52:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+345,2015-01-06 00:31:00,Second Class,South America,2,6,4,High,Carrier / South America
+11290,2015-06-14 19:02:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+64090,2017-07-24 13:13:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10575,2015-06-04 08:32:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10580,2015-06-04 10:17:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+64035,2017-07-23 17:57:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63990,2017-07-23 02:11:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11295,2015-06-14 20:47:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11310,2015-06-15 02:02:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63035,2017-07-09 03:37:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+76760,2018-01-25 12:05:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+31955,2016-04-11 10:54:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+31985,2016-04-11 21:25:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33510,2016-05-04 03:41:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+32005,2016-04-12 04:25:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+360,2015-01-06 05:46:00,Second Class,South America,2,6,4,High,Carrier / South America
+375,2015-01-06 11:01:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+76820,2018-01-26 09:07:00,Second Class,Oceania,2,6,4,High,Carrier / Oceania
+33415,2016-05-02 18:24:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+63045,2017-07-09 07:07:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+63050,2017-07-09 08:52:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+63020,2017-07-08 22:21:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62975,2017-07-08 06:35:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62980,2017-07-08 08:20:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+63000,2017-07-08 15:21:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10520,2015-06-03 13:16:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10535,2015-06-03 18:31:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10540,2015-06-03 20:16:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+64060,2017-07-24 02:43:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+31905,2016-04-10 17:23:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33655,2016-05-06 06:29:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33590,2016-05-05 07:43:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+385,2015-01-06 14:31:00,Second Class,South America,2,6,4,High,Carrier / South America
+410,2015-01-06 23:17:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+76795,2018-01-26 00:21:00,Second Class,South Asia,2,6,4,High,Carrier / South Asia
+11395,2015-06-16 07:49:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+62900,2017-07-07 04:19:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62915,2017-07-07 09:34:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10480,2015-06-02 23:15:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10485,2015-06-03 01:00:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+64100,2017-07-24 16:44:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+62880,2017-07-06 21:18:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+62895,2017-07-07 02:34:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+33770,2016-05-07 22:47:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33710,2016-05-07 01:45:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+450,2015-01-07 13:18:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+76725,2018-01-24 23:50:00,Second Class,Eastern Asia,2,6,4,High,Carrier / Eastern Asia
+76745,2018-01-25 06:50:00,Second Class,Eastern Asia,2,6,4,High,Carrier / Eastern Asia
+31885,2016-04-10 10:23:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+62825,2017-07-06 02:02:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62845,2017-07-06 09:03:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62795,2017-07-05 15:32:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62800,2017-07-05 17:17:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+10445,2015-06-02 10:59:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+64135,2017-07-25 04:59:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+62775,2017-07-05 08:31:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62780,2017-07-05 10:16:00,Second Class,Northern Europe,2,6,4,High,Carrier / Northern Europe
+31780,2016-04-08 21:35:00,Second Class,East of USA,2,6,4,High,Carrier / East of USA
+33830,2016-05-08 19:48:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+33780,2016-05-08 02:17:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33790,2016-05-08 05:47:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+76705,2018-01-24 16:49:00,Second Class,Southeast Asia,2,6,4,High,Carrier / Southeast Asia
+480,2015-01-07 23:48:00,Second Class,South America,2,6,4,High,Carrier / South America
+485,2015-01-08 01:34:00,Second Class,Caribbean,2,6,4,High,Carrier / Caribbean
+33805,2016-05-08 11:02:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+62785,2017-07-05 12:01:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11475,2015-06-17 11:51:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11485,2015-06-17 15:21:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11505,2015-06-17 22:21:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11510,2015-06-18 00:06:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+11515,2015-06-18 01:52:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+64220,2017-07-26 10:46:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+33955,2016-05-10 15:35:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33915,2016-05-10 01:35:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+31680,2016-04-07 10:33:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33870,2016-05-09 09:49:00,Second Class,US Center ,2,6,4,High,Carrier / US Center 
+33890,2016-05-09 16:49:00,Second Class,South of  USA ,2,6,4,High,Carrier / South of  USA 
+31705,2016-04-07 19:19:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+31710,2016-04-07 21:04:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+490,2015-01-08 03:19:00,Second Class,Central America,2,6,4,High,Carrier / Central America
+76665,2018-01-24 02:48:00,Second Class,Southeast Asia,2,6,4,High,Carrier / Southeast Asia
+11570,2015-06-18 21:08:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+11600,2015-06-19 07:38:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+62585,2017-07-02 13:57:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+62590,2017-07-02 15:42:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+62540,2017-07-01 22:11:00,Second Class,Southern Europe,2,6,4,High,Carrier / Southern Europe
+10370,2015-06-01 08:43:00,Second Class,Western Europe,2,6,4,High,Carrier / Western Europe
+34050,2016-05-12 00:52:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
+33975,2016-05-10 22:36:00,Second Class,West of USA ,2,6,4,High,Carrier / West of USA 
